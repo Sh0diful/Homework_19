@@ -15,6 +15,13 @@ body {
   background-attachment: fixed;
 }
 
+a {
+color: #573d0f;
+}
+
+a:visited {
+  color: #573d0f;
+  }
 /* h1 {
  
   /* navburger */
